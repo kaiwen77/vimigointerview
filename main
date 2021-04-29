@@ -50,6 +50,10 @@ class _MyHomePageState extends State<MyHomePage> {
     _contacts.forEach((contact){
 
     });
+
+    //_contacts.sort((a,b) => a.compareTo(b));
+    //DateTime now = DateTime.now();
+    //String dateTime = DateFormat.parse("yyyy-MM-dd - kk:mm");
   }
 
 
